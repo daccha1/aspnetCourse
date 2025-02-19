@@ -1,10 +1,5 @@
 ﻿using System.IO;
 using Microsoft.Extensions.Primitives;
-using System.Security.Cryptography.X509Certificates;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Http;
-using Microsoft.Extensions.Primitives;
-using System.Threading.Tasks;
 namespace MiddlewareLoginApp.CustomMiddlewares
 {
     public class LoginMiddleware : IMiddleware

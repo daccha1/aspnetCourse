@@ -100,7 +100,7 @@
               "RelativeDocumentMoniker": "MiddlewareLoginApp\\CustomMiddlewares\\LoginMiddleware.cs",
               "ToolTip": "D:\\ASP.NET Core\\MiddlewareLoginApp\\MiddlewareLoginApp\\CustomMiddlewares\\LoginMiddleware.cs",
               "RelativeToolTip": "MiddlewareLoginApp\\CustomMiddlewares\\LoginMiddleware.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T20:27:31.07Z",
               "EditorCaption": ""
@@ -115,8 +115,7 @@
               "RelativeToolTip": "MiddlewareLoginApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:07:54.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:07:54.753Z"
             }
           ]
         }
