@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ASP.NET Core\\ControllersExercise\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A96808C0-18AB-4F22-BD8D-67D0041CE92C}|ControllersExercise\\ControllersExercise.csproj|d:\\asp.net core\\controllersexercise\\controllersexercise\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96808C0-18AB-4F22-BD8D-67D0041CE92C}|ControllersExercise\\ControllersExercise.csproj|solutionrelative:controllersexercise\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96808C0-18AB-4F22-BD8D-67D0041CE92C}|ControllersExercise\\ControllersExercise.csproj|d:\\asp.net core\\controllersexercise\\controllersexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96808C0-18AB-4F22-BD8D-67D0041CE92C}|ControllersExercise\\ControllersExercise.csproj|solutionrelative:controllersexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96808C0-18AB-4F22-BD8D-67D0041CE92C}|ControllersExercise\\ControllersExercise.csproj|d:\\asp.net core\\controllersexercise\\controllersexercise\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96808C0-18AB-4F22-BD8D-67D0041CE92C}|ControllersExercise\\ControllersExercise.csproj|solutionrelative:controllersexercise\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 284,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -95,44 +82,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "ControllersExercise\\Models\\Account.cs",
-              "ToolTip": "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\Models\\Account.cs",
-              "RelativeToolTip": "ControllersExercise\\Models\\Account.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T16:39:32.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "ControllersExercise\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "ControllersExercise\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA9wCMAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T16:14:08.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\Program.cs",
-              "RelativeDocumentMoniker": "ControllersExercise\\Program.cs",
-              "ToolTip": "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\Program.cs",
-              "RelativeToolTip": "ControllersExercise\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T15:53:07.913Z",
-              "EditorCaption": ""
             }
           ]
         }

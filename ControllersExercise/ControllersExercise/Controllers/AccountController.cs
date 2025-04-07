@@ -33,7 +33,7 @@ namespace ControllersExercise.Controllers
         }
 
         [Route("/get-balance/{accountNumber:int:range(1000, 1002)}/{accountState}")]
-        public IActionResult getBalance(int accountNumber, int accountState)
+        public IActionResult getBalance([FromRoute] int accountNumber, [FromQuery] int accountState)
         {
             Account acc = createAccount();
 
@@ -45,6 +45,15 @@ namespace ControllersExercise.Controllers
 
             return Content($"Current balance of the user with id: {acc.accountNumber} is: {acc.currentBalance}");
         }
+
+        [Route("/bookstore/{bookid?}/{loggedIn?}")]
+        public IActionResult book([FromQuery] int? bookid, [FromRoute] bool? loggedIn, Book book)
+        {
+            return Content("Tekst AJAO"); 
+        }
+
+
+
 
     }
 }
