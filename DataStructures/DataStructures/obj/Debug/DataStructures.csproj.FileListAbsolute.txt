@@ -1,0 +1,7 @@
+D:\ASP.NET Core\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+D:\ASP.NET Core\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+D:\ASP.NET Core\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+D:\ASP.NET Core\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.AssemblyReference.cache
+D:\ASP.NET Core\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+D:\ASP.NET Core\DataStructures\DataStructures\obj\Debug\DataStructures.pdb

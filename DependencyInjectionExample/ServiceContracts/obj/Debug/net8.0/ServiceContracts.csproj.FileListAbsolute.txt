@@ -1,0 +1,12 @@
+D:\ASP.NET Core\DependencyInjectionExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+D:\ASP.NET Core\DependencyInjectionExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+D:\ASP.NET Core\DependencyInjectionExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+D:\ASP.NET Core\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Core\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\ASP.NET Core\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
+D:\ASP.NET Core\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\ASP.NET Core\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.sourcelink.json
+D:\ASP.NET Core\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+D:\ASP.NET Core\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+D:\ASP.NET Core\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+D:\ASP.NET Core\DependencyInjectionExample\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll

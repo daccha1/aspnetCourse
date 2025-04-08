@@ -1,11 +1,48 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "0h3FLGoj9dMCQQxKRiIoH1GkqRja+PDZvai3L4x/p5g=",
+=======
+  "Hash": "48XFoj6ZLNa/b0i6jf3prfgy0Ly5hL7M57fJLVS/4ro=",
+>>>>>>> 3906903ee387364f5421fee0a04b8fc6f2131d64
   "Source": "ControllersExercise",
   "BasePath": "_content/ControllersExercise",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
+<<<<<<< HEAD
   "DiscoveryPatterns": [],
   "Assets": []
+=======
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllersExercise\\wwwroot",
+      "Source": "ControllersExercise",
+      "ContentRoot": "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\wwwroot\\",
+      "BasePath": "_content/ControllersExercise",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\wwwroot\\JorisPriprema.pdf",
+      "SourceId": "ControllersExercise",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\wwwroot\\",
+      "BasePath": "_content/ControllersExercise",
+      "RelativePath": "JorisPriprema.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\JorisPriprema.pdf"
+    }
+  ]
+>>>>>>> 3906903ee387364f5421fee0a04b8fc6f2131d64
 }

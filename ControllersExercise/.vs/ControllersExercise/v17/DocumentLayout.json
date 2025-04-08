@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\David\\Desktop\\ASP.NET Course\\ControllersExercise\\",
   "Documents": [
     {
@@ -23,12 +24,17 @@
       "RelativeMoniker": "D:0:0:{F9FC9E3C-C9E3-4163-9E00-54F00E1E850B}|ControllersExercise\\ControllersExercise.csproj|solutionrelative:controllersexercise\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
+=======
+  "WorkspaceRootPath": "D:\\ASP.NET Core\\ControllersExercise\\",
+  "Documents": [],
+>>>>>>> 3906903ee387364f5421fee0a04b8fc6f2131d64
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
+<<<<<<< HEAD
           "DockedWidth": 262,
           "SelectedChildIndex": 20,
           "Children": [
@@ -45,6 +51,14 @@
               "WhenOpened": "2025-03-02T15:59:00.295Z",
               "IsPinned": true,
               "EditorCaption": ""
+=======
+          "DockedWidth": 284,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+>>>>>>> 3906903ee387364f5421fee0a04b8fc6f2131d64
             },
             {
               "$type": "Bookmark",
@@ -113,6 +127,7 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+<<<<<<< HEAD
             },
             {
               "$type": "Bookmark",
@@ -169,6 +184,8 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T17:04:42.054Z",
               "EditorCaption": ""
+=======
+>>>>>>> 3906903ee387364f5421fee0a04b8fc6f2131d64
             }
           ]
         }

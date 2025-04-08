@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\David\\Desktop\\ASP.NET Course\\ControllersExercise\\ControllersExercise\\ControllersExercise.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\David\\Desktop\\ASP.NET Course\\ControllersExercise\\ControllersExercise\\ControllersExercise.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\David\\Desktop\\ASP.NET Course\\ControllersExercise\\ControllersExercise\\obj\\",
+=======
+    "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\ControllersExercise.csproj": {}
+  },
+  "projects": {
+    "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\ControllersExercise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\ControllersExercise.csproj",
+        "projectName": "ControllersExercise",
+        "projectPath": "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\ControllersExercise.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\obj\\",
+>>>>>>> 3906903ee387364f5421fee0a04b8fc6f2131d64
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +36,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
           "C:\\Program Files\\dotnet\\library-packs": {},
+=======
+>>>>>>> 3906903ee387364f5421fee0a04b8fc6f2131d64
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +81,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.308/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 3906903ee387364f5421fee0a04b8fc6f2131d64
         }
       }
     }

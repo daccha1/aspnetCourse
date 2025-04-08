@@ -6,4 +6,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+<<<<<<< HEAD
+=======
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+>>>>>>> 3906903ee387364f5421fee0a04b8fc6f2131d64
 </Project>

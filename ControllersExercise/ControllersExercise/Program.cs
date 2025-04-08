@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using ControllersExercise.Controllers;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
@@ -88,3 +89,15 @@ namespace ControllersExercise
         }
     }
 }
+=======
+var builder = WebApplication.CreateBuilder(args);
+// builder.Services.AddTransient<ControllerName>();
+builder.Services.AddControllers();
+
+
+var app = builder.Build();
+app.UseStaticFiles();
+app.MapControllers();
+
+app.Run();
+>>>>>>> 3906903ee387364f5421fee0a04b8fc6f2131d64

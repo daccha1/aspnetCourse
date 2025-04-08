@@ -1,0 +1,17 @@
+D:\repos\DependencyInjectionTest\Services\bin\Debug\net8.0\Services.deps.json
+D:\repos\DependencyInjectionTest\Services\bin\Debug\net8.0\Services.dll
+D:\repos\DependencyInjectionTest\Services\bin\Debug\net8.0\Services.pdb
+D:\repos\DependencyInjectionTest\Services\bin\Debug\net8.0\Entities.dll
+D:\repos\DependencyInjectionTest\Services\bin\Debug\net8.0\ServiceContracts.dll
+D:\repos\DependencyInjectionTest\Services\bin\Debug\net8.0\ServiceContracts.pdb
+D:\repos\DependencyInjectionTest\Services\bin\Debug\net8.0\Entities.pdb
+D:\repos\DependencyInjectionTest\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\repos\DependencyInjectionTest\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\DependencyInjectionTest\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\repos\DependencyInjectionTest\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\repos\DependencyInjectionTest\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\repos\DependencyInjectionTest\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\repos\DependencyInjectionTest\Services\obj\Debug\net8.0\Services.dll
+D:\repos\DependencyInjectionTest\Services\obj\Debug\net8.0\refint\Services.dll
+D:\repos\DependencyInjectionTest\Services\obj\Debug\net8.0\Services.pdb
+D:\repos\DependencyInjectionTest\Services\obj\Debug\net8.0\ref\Services.dll

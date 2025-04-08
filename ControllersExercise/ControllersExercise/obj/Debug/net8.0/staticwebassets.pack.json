@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.NET Core\\ControllersExercise\\ControllersExercise\\wwwroot\\JorisPriprema.pdf",
+      "PackagePath": "staticwebassets\\JorisPriprema.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ControllersExercise.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ControllersExercise.props",
+      "PackagePath": "build\\ControllersExercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ControllersExercise.props",
+      "PackagePath": "buildMultiTargeting\\ControllersExercise.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ControllersExercise.props",
+      "PackagePath": "buildTransitive\\ControllersExercise.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
