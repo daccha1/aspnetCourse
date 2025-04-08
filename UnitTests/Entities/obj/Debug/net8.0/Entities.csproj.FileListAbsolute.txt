@@ -9,3 +9,18 @@ D:\repos\DependencyInjectionTest\Entities\obj\Debug\net8.0\Entities.dll
 D:\repos\DependencyInjectionTest\Entities\obj\Debug\net8.0\refint\Entities.dll
 D:\repos\DependencyInjectionTest\Entities\obj\Debug\net8.0\Entities.pdb
 D:\repos\DependencyInjectionTest\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache

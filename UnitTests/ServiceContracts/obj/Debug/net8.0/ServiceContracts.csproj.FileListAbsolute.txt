@@ -13,3 +13,21 @@ D:\repos\DependencyInjectionTest\ServiceContracts\obj\Debug\net8.0\ServiceContra
 D:\repos\DependencyInjectionTest\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
 D:\repos\DependencyInjectionTest\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
 D:\repos\DependencyInjectionTest\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\bin\Debug\net8.0\Entities.dll
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\obj\Debug\net8.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\obj\Debug\net8.0\ServiceContracts.sourcelink.json
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\obj\Debug\net8.0\ServiceC.04662A29.Up2Date
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\bin\Debug\net8.0\ServiceContracts.runtimeconfig.json
+C:\Users\David\Desktop\ASP.NET Course\UnitTests\ServiceContracts\obj\Debug\net8.0\ServiceContracts.genruntimeconfig.cache

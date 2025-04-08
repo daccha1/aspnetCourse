@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\DependencyInjectionTest\\ServiceContracts\\ServiceContracts.csproj": {}
+    "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\ServiceContracts\\ServiceContracts.csproj": {}
   },
   "projects": {
-    "D:\\repos\\DependencyInjectionTest\\Entities\\Entities.csproj": {
+    "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\DependencyInjectionTest\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\repos\\DependencyInjectionTest\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\DependencyInjectionTest\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,6 +45,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -60,18 +77,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\repos\\DependencyInjectionTest\\ServiceContracts\\ServiceContracts.csproj": {
+    "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\ServiceContracts\\ServiceContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\DependencyInjectionTest\\ServiceContracts\\ServiceContracts.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\ServiceContracts\\ServiceContracts.csproj",
         "projectName": "ServiceContracts",
-        "projectPath": "D:\\repos\\DependencyInjectionTest\\ServiceContracts\\ServiceContracts.csproj",
+        "projectPath": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\ServiceContracts\\ServiceContracts.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\DependencyInjectionTest\\ServiceContracts\\obj\\",
+        "outputPath": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\ServiceContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,14 +99,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\repos\\DependencyInjectionTest\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\repos\\DependencyInjectionTest\\Entities\\Entities.csproj"
+              "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\Entities\\Entities.csproj"
               }
             }
           }
@@ -108,6 +126,18 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -124,7 +154,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

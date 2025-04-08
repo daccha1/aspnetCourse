@@ -35,6 +35,21 @@ namespace ServiceContracts.DTO
 				CountryId = p.CountryId,
 			};
 		}
-	}
+
+        public static PersonUpdateRequest ToPersonUpdate(this PersonResponse p)
+        {
+            return new PersonUpdateRequest
+            {
+                PersonId = p.PersonId,
+                PersonName = p.PersonName,
+                Email = p.Email,
+                Gender = p.Gender,
+                Adress = p.Adress,
+                DOB = p.DOB,
+                CountryId = p.CountryId,
+            };
+        }
+
+    }
 
 }

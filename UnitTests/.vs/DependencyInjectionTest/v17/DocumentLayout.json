@@ -1,34 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\repos\\DependencyInjectionTest\\",
+  "WorkspaceRootPath": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F929FB5E-2EFC-4B72-9D32-66CF8D665124}|Test\\Test.csproj|d:\\repos\\dependencyinjectiontest\\test\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F929FB5E-2EFC-4B72-9D32-66CF8D665124}|Test\\Test.csproj|solutionrelative:test\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3641F9FA-3F67-46B4-90EA-B87E112D5D58}|DependencyInjectionTest\\DependencyInjectionTest.csproj|c:\\users\\david\\desktop\\asp.net course\\unittests\\dependencyinjectiontest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3641F9FA-3F67-46B4-90EA-B87E112D5D58}|DependencyInjectionTest\\DependencyInjectionTest.csproj|solutionrelative:dependencyinjectiontest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F929FB5E-2EFC-4B72-9D32-66CF8D665124}|Test\\Test.csproj|d:\\repos\\dependencyinjectiontest\\test\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F929FB5E-2EFC-4B72-9D32-66CF8D665124}|Test\\Test.csproj|solutionrelative:test\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2222F3C5-3B60-486D-8FA5-EA445A5DD5D4}|Entities\\Entities.csproj|c:\\users\\david\\desktop\\asp.net course\\unittests\\entities\\persondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2222F3C5-3B60-486D-8FA5-EA445A5DD5D4}|Entities\\Entities.csproj|solutionrelative:entities\\persondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{696413D2-3BF6-402F-9291-214DD81AC963}|Services\\Services.csproj|d:\\repos\\dependencyinjectiontest\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{696413D2-3BF6-402F-9291-214DD81AC963}|Services\\Services.csproj|solutionrelative:services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CACE282-0E94-4686-8F2C-01AFEA759DFD}|ServiceContracts\\ServiceContracts.csproj|d:\\repos\\dependencyinjectiontest\\servicecontracts\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CACE282-0E94-4686-8F2C-01AFEA759DFD}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2222F3C5-3B60-486D-8FA5-EA445A5DD5D4}|Entities\\Entities.csproj|d:\\repos\\dependencyinjectiontest\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2222F3C5-3B60-486D-8FA5-EA445A5DD5D4}|Entities\\Entities.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CACE282-0E94-4686-8F2C-01AFEA759DFD}|ServiceContracts\\ServiceContracts.csproj|d:\\repos\\dependencyinjectiontest\\servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CACE282-0E94-4686-8F2C-01AFEA759DFD}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CACE282-0E94-4686-8F2C-01AFEA759DFD}|ServiceContracts\\ServiceContracts.csproj|d:\\repos\\dependencyinjectiontest\\servicecontracts\\dto\\personaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CACE282-0E94-4686-8F2C-01AFEA759DFD}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\personaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3641F9FA-3F67-46B4-90EA-B87E112D5D58}|DependencyInjectionTest\\DependencyInjectionTest.csproj|c:\\users\\david\\desktop\\asp.net course\\unittests\\dependencyinjectiontest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3641F9FA-3F67-46B4-90EA-B87E112D5D58}|DependencyInjectionTest\\DependencyInjectionTest.csproj|solutionrelative:dependencyinjectiontest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,10 +24,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 19,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -113,93 +93,45 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CountriesServiceTest.cs",
-              "DocumentMoniker": "D:\\repos\\DependencyInjectionTest\\Test\\CountriesServiceTest.cs",
-              "RelativeDocumentMoniker": "Test\\CountriesServiceTest.cs",
-              "ToolTip": "D:\\repos\\DependencyInjectionTest\\Test\\CountriesServiceTest.cs",
-              "RelativeToolTip": "Test\\CountriesServiceTest.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAmwH0AAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T18:11:08.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PersonsServiceTest.cs",
-              "DocumentMoniker": "D:\\repos\\DependencyInjectionTest\\Test\\PersonsServiceTest.cs",
-              "RelativeDocumentMoniker": "Test\\PersonsServiceTest.cs",
-              "ToolTip": "D:\\repos\\DependencyInjectionTest\\Test\\PersonsServiceTest.cs",
-              "RelativeToolTip": "Test\\PersonsServiceTest.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAewEUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T17:48:59.554Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PersonsService.cs",
-              "DocumentMoniker": "D:\\repos\\DependencyInjectionTest\\Services\\PersonsService.cs",
-              "RelativeDocumentMoniker": "Services\\PersonsService.cs",
-              "ToolTip": "D:\\repos\\DependencyInjectionTest\\Services\\PersonsService.cs",
-              "RelativeToolTip": "Services\\PersonsService.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowDIAAAAEAAAA",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\DependencyInjectionTest\\appsettings.json",
+              "RelativeDocumentMoniker": "DependencyInjectionTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\DependencyInjectionTest\\appsettings.json",
+              "RelativeToolTip": "DependencyInjectionTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T13:24:53.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\DependencyInjectionTest\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionTest\\Program.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\DependencyInjectionTest\\Program.cs",
+              "RelativeToolTip": "DependencyInjectionTest\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T17:46:40.53Z",
+              "WhenOpened": "2025-04-08T13:03:13.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IPersonsService.cs",
-              "DocumentMoniker": "D:\\repos\\DependencyInjectionTest\\ServiceContracts\\IPersonsService.cs",
-              "RelativeDocumentMoniker": "ServiceContracts\\IPersonsService.cs",
-              "ToolTip": "D:\\repos\\DependencyInjectionTest\\ServiceContracts\\IPersonsService.cs",
-              "RelativeToolTip": "ServiceContracts\\IPersonsService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "DocumentIndex": 1,
+              "Title": "PersonDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\Entities\\PersonDbContext.cs",
+              "RelativeDocumentMoniker": "Entities\\PersonDbContext.cs",
+              "ToolTip": "C:\\Users\\David\\Desktop\\ASP.NET Course\\UnitTests\\Entities\\PersonDbContext.cs",
+              "RelativeToolTip": "Entities\\PersonDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T17:45:55.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PersonResponse.cs",
-              "DocumentMoniker": "D:\\repos\\DependencyInjectionTest\\ServiceContracts\\DTO\\PersonResponse.cs",
-              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonResponse.cs",
-              "ToolTip": "D:\\repos\\DependencyInjectionTest\\ServiceContracts\\DTO\\PersonResponse.cs",
-              "RelativeToolTip": "ServiceContracts\\DTO\\PersonResponse.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAACQAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T17:11:15.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PersonAddRequest.cs",
-              "DocumentMoniker": "D:\\repos\\DependencyInjectionTest\\ServiceContracts\\DTO\\PersonAddRequest.cs",
-              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\PersonAddRequest.cs",
-              "ToolTip": "D:\\repos\\DependencyInjectionTest\\ServiceContracts\\DTO\\PersonAddRequest.cs",
-              "RelativeToolTip": "ServiceContracts\\DTO\\PersonAddRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T16:24:34.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\repos\\DependencyInjectionTest\\Entities\\Person.cs",
-              "RelativeDocumentMoniker": "Entities\\Person.cs",
-              "ToolTip": "D:\\repos\\DependencyInjectionTest\\Entities\\Person.cs",
-              "RelativeToolTip": "Entities\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T16:16:42.719Z",
+              "WhenOpened": "2025-04-08T12:50:26.975Z",
               "EditorCaption": ""
             }
           ]
